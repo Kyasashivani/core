@@ -1,0 +1,1 @@
+#we use functions for code reusability and to decrease the number of lines in a code.
